@@ -607,7 +607,7 @@ int main(int argc, char *argv[]){
 	char filename[30];
     cout << "Nome do arquivo: ";
 	scanf("%s", filename);
-    cout << "Efeitos:\n\t0: Select Hue\n\t1: Remove Hue\n\t2: Shift Hue\n\t3: Shift Hue and Grayscale\n\t4: Colorize\n\t5: Select RGB range\n\t6: Select RGB intervals\n";
+    cout << "Efeitos:\n\t0: Select Hue\n\t1: Remove Hue\n\t2: Shift Hue\n\t3: Shift Hue and Grayscale\n\t4: Colorize\n\t5: Select RGB range\n";
     cout << "Grayscale:\n\t0: luma\n\t1: desaturation\n\t2: Custom Shades of Gray\n\t3: Custom Shades of Gray with Dithering\n";    
 	if(!strstr(filename, ".bmp")){//se o arquivo nao for .bmp
 		printf("Arquivo nao eh do formato BMP\n");
