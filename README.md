@@ -21,4 +21,4 @@ For the effects that apply grayscale there are 4 different types:\
 
 
 ### Examples
-![Examples](examples.pdf)
+![Examples](Examples.pdf)
