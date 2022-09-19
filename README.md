@@ -18,3 +18,4 @@ For the effects that apply grayscale there are 4 different types:\
     1: desaturation - (max(R, G, B)+min(R, G, B))/2\
     2: Custom Shades of Gray - enter the number of shades of gray to use\
     3: Custom Shades of Gray with Dithering - enter the number of shades of gray to use and apply dithering\
+[Examples.pdf](https://github.com/VictorLutes/Edit-Images/files/9595804/Examples.pdf)
