@@ -4,7 +4,7 @@ C++ program to edit bitmap images
 Compile with g++ -o out colors.cpp
 After executing you will be prompted to input the name of the file you want to edit and the effect you want to apply:
 
-Effects:
+Effects:\n
   0: Select Hue - applies grayscale effect to every color outside of the hue interval selected
   1: Remove Hue - applies grayscale effect to only to colors inside of the hue interval selected
   2: Shift Hue - shifts the hue of colors inside the range selected by a certain amount
