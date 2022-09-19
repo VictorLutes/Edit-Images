@@ -19,5 +19,5 @@ For the effects that apply grayscale there are 4 different types:\
     2: Custom Shades of Gray - enter the number of shades of gray to use\
     3: Custom Shades of Gray with Dithering - enter the number of shades of gray to use and apply dithering\
 
-xfun::embed_file("[homework.pdf](https://github.com/VictorLutes/Edit-Images/blob/main/Examples.pdf)")
+xfun::embed_file("https://github.com/VictorLutes/Edit-Images/blob/main/Examples.pdf")
 
